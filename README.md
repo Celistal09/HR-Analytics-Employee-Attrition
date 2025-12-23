@@ -24,7 +24,7 @@ This project analyzes employee attrition using an interactive Power BI dashboard
 
 ## 📸 Dashboard Preview
 ### Overall Dashboard
-![Dashboard Overview](Dashboard_overview.png.png)
+![Dashboard Overview](Dashboard_overview.png)
 
 ### Filtered View
 ![Filtered Dashboard View](dashboard_filtered.png)
